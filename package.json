@@ -1,0 +1,15 @@
+{
+  "name": "steering_behaviour",
+  "version": "1.0.0",
+  "description": "You have downloaded the complete p5.js library ZIP file, yay!",
+  "main": "p5-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {}
+}
